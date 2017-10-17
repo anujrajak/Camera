@@ -3,3 +3,6 @@
   Dependencies:
     1. Python
     2. cv2 module
+# Controls
+  press q for quit
+  press c to capture image
